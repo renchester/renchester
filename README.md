@@ -20,7 +20,7 @@ I'm a self-taught full-stack developer currently taking up courses on [The Odin 
 ## 🛠 Skills
 I have experience working with projects using JavaScript, TypeScript, React, Next.js, Express.js, Node.js, MongoDB, SCSS, TailwindCSS, APIs, Git/GitHub, and others.
 
-👩‍💻 I'm currently working on... *getting hired and creating another full-stack app*
+👩‍💻 I'm currently working on... *creating another full-stack app and learning new things every day*
 
 🧠 I'm currently learning... *APIs (REST and GraphQL), Databases (MongoDB, PostgreSQL)*
 
