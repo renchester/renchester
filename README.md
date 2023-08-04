@@ -20,12 +20,6 @@ I'm a self-taught full-stack developer currently taking up courses on [The Odin 
 ## 🛠 Skills
 I have experience working with projects using JavaScript, TypeScript, React, Next.js, Express.js, Node.js, MongoDB, SCSS, TailwindCSS, APIs, Git/GitHub, and others.
 
-👩‍💻 I'm currently working on... *creating another full-stack app and learning new things every day*
-
-🧠 I'm currently learning... *APIs (REST and GraphQL), Databases (MongoDB, PostgreSQL)*
-
-📫 How to reach me... *email me at renchesterjramos@gmail.com*
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://renchester.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renchesterramos/)
