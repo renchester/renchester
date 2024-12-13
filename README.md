@@ -12,15 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey, I'm Chester! 👋
-
-## 🚀 About Me
-I am a full-stack developer––currently working but also doing projects on the side. Check out my pinned repositories for my favorite creations.
-
-## 🛠 Skills
-I have experience working with projects using Javascript, Typecript, React, Next.js, Express.js, Node.js, MongoDB, PostgreSQL, SCSS, TailwindCSS, APIs, Git/GitHub, and others.
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://renchester.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renchesterramos/)
 
